@@ -1,0 +1,12 @@
+django
+gunicorn
+python-dotenv
+whitenoise
+django-admin-volt==1.0.10
+apscheduler==3.10.1
+django-dynamic-api==1.0.4
+
+psycopg2-binary
+
+# mysqlclient
+mssql-django==1.2
